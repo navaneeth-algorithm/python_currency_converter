@@ -18,5 +18,5 @@ gives conversion rate from USD to INR
 {"data":"79.9680"}
 
 ```
-
+> You can check country code in [input_data.json](input_data.json)
 
